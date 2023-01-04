@@ -7,7 +7,7 @@
   - 👀 I am a Full Stack Software Engineer and recent graduate of General Assembly's Software Engineering Immersive
   - 🌱 I am currently deepening my knowlege of computer science and programming languages
   - 💞️ I’m looking for full time work and am open to remote, local or hybrid environments
-  - 📫 [Click here](https://www.linkedin.com/in/hannah-bethke/) to find me on Linkedin and [here](https://hannah-bethke.netlify.app/) to view my personal portfolio!
+  - 📫 [Click here](https://www.linkedin.com/in/hannah-bethke/) to find me on Linkedin
 
 <!---
 hannahbethke/hannahbethke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
